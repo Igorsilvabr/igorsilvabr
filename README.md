@@ -91,7 +91,7 @@
 
 ### 👑 O GOAT
 
-<img alt="Pantera Negra" width="420" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhuMGplam9pNHV3NHR3d2YxZ2Z1NTJyaGJmZjJjamUxampwbXdpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThtavMQZtCbNZo2WY/giphy.gif](https://br.pinterest.com/pin/794463190516200719/)" />
+<img alt="Pantera Negra" width="420" src="[[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhuMGplam9pNHV3NHR3d2YxZ2Z1NTJyaGJmZjJjamUxampwbXdpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThtavMQZtCbNZo2WY/giphy.gif](https://br.pinterest.com/pin/794463190516200719/)](https://cineset.com.br/pantera-negra-representatividade-negra-brilha-em-grande-filme/)" />
 
 ![Pantera Negra](https://img.shields.io/badge/PANTERA%20NEGRA-6A1B9A?style=for-the-badge)
 
