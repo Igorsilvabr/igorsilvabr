@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Igor Silva Branco" src="https://capsule-render.vercel.app/api?type=rect&color=EC1D24&height=150&section=header&text=IGOR%20SILVA%20BRANCO&fontSize=46&fontColor=FFFFFF&fontAlignY=45&desc=CurrículoC3%AA%20de%20Her%C3%B3i%20%E2%80%A2%20TI%20%E2%80%A2%20Dados%20%E2%80%A2%20Desenvolvimento&descAlignY=72&descSize=16" />
+  <img alt="Igor Silva Branco" src="https://capsule-render.vercel.app/api?type=rect&color=EC1D24&height=150&section=header&text=IGOR%20SILVA%20BRANCO&fontSize=46&fontColor=FFFFFF&fontAlignY=45&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20TI%20%E2%80%A2%20Dados%20%E2%80%A2%20Desenvolvimento&descAlignY=72&descSize=16" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-
+## 📂 Ficha do herói
 
 | | |
 |:--|:--|
@@ -53,8 +53,6 @@
 ![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-6A1B9A?style=flat-square&logo=googlegemini&logoColor=white)
 ![Elipse E3](https://img.shields.io/badge/-Elipse%20E3%20(HMI%2FSCADA)-6A1B9A?style=flat-square)
 
-
-
 ---
 
 ## 🚧 Missões em andamento
@@ -64,8 +62,16 @@
 
 > 📖 **Leitor de HQs** — biblioteca de quadrinhos com progresso de leitura salvo, metas diárias e avaliações de 0 a 10.
 
+---
 
+## Personagens preferidos 
 
+<!--
+  COMO ADICIONAR GIFs:
+  1. Entre em giphy.com e pesquise o personagem (ex.: "Iron Man Marvel").
+  2. Clique no GIF, clique com o botão direito nele e escolha "Copiar endereço da imagem".
+  3. Cole o link no lugar de COLE_O_LINK_DO_GIF e apague o abre e fecha de comentário da linha do personagem.
+-->
 
 <div align="center">
 
@@ -79,7 +85,39 @@
 
 </div>
 
+<br />
 
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <!-- <img alt="Quarteto Fantástico" width="250" src="COLE_O_LINK_DO_GIF" /><br /> -->
+      <img alt="Quarteto Fantástico" src="https://img.shields.io/badge/QUARTETO%20FANT%C3%81STICO-0057B8?style=for-the-badge" /><br />
+      <sub>A primeira família da Marvel: Sr. Fantástico, Mulher-Invisível, Tocha Humana e Coisa.</sub>
+    </td>
+    <td align="center" width="33%">
+      <!-- <img alt="Homem de Ferro" width="250" src="COLE_O_LINK_DO_GIF" /><br /> -->
+      <img alt="Homem de Ferro" src="https://img.shields.io/badge/HOMEM%20DE%20FERRO-C8102E?style=for-the-badge" /><br />
+      <sub>Tony Stark: gênio, inventor e dono da armadura mais icônica da Marvel.</sub>
+    </td>
+    <td align="center" width="33%">
+      <!-- <img alt="Rocket" width="250" src="COLE_O_LINK_DO_GIF" /><br /> -->
+      <img alt="Rocket" src="https://img.shields.io/badge/ROCKET-F28C28?style=for-the-badge" /><br />
+      <sub>O guaxinim dos Guardiões da Galáxia: esperto, sarcástico e especialista em armas.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Hobbies
+
+| 📚 HQs | 📖 Mangás | 🎌 Animes |
+|:--|:--|:--|
+| Os quadrinhos da Marvel são a minha casa. Estou até construindo o meu próprio leitor de HQs. | Histórias que me prendem página a página, com mundos e personagens inesquecíveis. | Mundos, lutas e personagens que me fazem querer assistir só mais um episódio. |
+
+<!-- Dica: adicione aqui seus mangás e animes favoritos, por exemplo: "**Favoritos:** título 1, título 2, título 3" -->
+
+---
 
 ## 📫 Convoque-me
 
