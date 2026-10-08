@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Igor Silva Branco" src="https://capsule-render.vercel.app/api?type=rect&color=EC1D24&height=150&section=header&text=IGOR%20SILVA%20BRANCO&fontSize=46&fontColor=FFFFFF&fontAlignY=45&desc=Dossi%C3%AA%20de%20Her%C3%B3i%20%E2%80%A2%20TI%20%E2%80%A2%20Dados%20%E2%80%A2%20Desenvolvimento&descAlignY=72&descSize=16" />
+  <img alt="Igor Silva Branco" src="https://capsule-render.vercel.app/api?type=rect&color=EC1D24&height=150&section=header&text=IGOR%20SILVA%20BRANCO&fontSize=46&fontColor=FFFFFF&fontAlignY=45&desc=Currículo%C3%AA%20de%20Her%C3%B3i%20%E2%80%A2%20TI%20%E2%80%A2%20Dados%20%E2%80%A2%20Desenvolvimento&descAlignY=72&descSize=16" />
 </p>
 
 <p align="center">
