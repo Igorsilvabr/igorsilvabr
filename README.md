@@ -8,8 +8,6 @@
 
 ---
 
-## 📂 Ficha do herói
-
 | | |
 |:--|:--|
 | 🦸 **Nome** | Igor Silva Branco |
