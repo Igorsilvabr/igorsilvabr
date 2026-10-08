@@ -53,19 +53,7 @@
 ![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-6A1B9A?style=flat-square&logo=googlegemini&logoColor=white)
 ![Elipse E3](https://img.shields.io/badge/-Elipse%20E3%20(HMI%2FSCADA)-6A1B9A?style=flat-square)
 
----
 
-## 🏅 Missões cumpridas
-
-| Missão | Quartel-general | Quando |
-|:--|:--|:--:|
-| Python para Dados: Primeiros Passos (10h) | Alura | mar/2026 |
-| Crie um Site Simples com HTML, CSS e JavaScript | Fundação Bradesco | fev/2026 |
-| Minicurso Elipse E3 v6.8 — HMI/SCADA (8h) | Elipse Software | dez/2025 |
-| Imersão Dev com Google Gemini | Alura | set/2025 |
-| Modelagem de Dados | Fundação Bradesco | set/2025 |
-| Introduction to IoT | Cisco | set/2025 |
-| Introduction to Cybersecurity | Cisco | set/2025 |
 
 ---
 
@@ -76,22 +64,14 @@
 
 > 📖 **Leitor de HQs** — biblioteca de quadrinhos com progresso de leitura salvo, metas diárias e avaliações de 0 a 10.
 
----
 
-## 🦸 Minha equipe de heróis
 
-<!--
-  COMO ADICIONAR GIFs:
-  1. Entre em giphy.com e pesquise o personagem (ex.: "Iron Man Marvel").
-  2. Clique no GIF, clique com o botão direito nele e escolha "Copiar endereço da imagem".
-  3. Cole o link no lugar de COLE_O_LINK_DO_GIF e apague o abre e fecha de comentário da linha do personagem.
--->
 
 <div align="center">
 
 ### 👑 O GOAT
 
-<img alt="Pantera Negra" width="420" src="[[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhuMGplam9pNHV3NHR3d2YxZ2Z1NTJyaGJmZjJjamUxampwbXdpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThtavMQZtCbNZo2WY/giphy.gif](https://br.pinterest.com/pin/794463190516200719/)](https://cineset.com.br/pantera-negra-representatividade-negra-brilha-em-grande-filme/)" />
+<img alt="Pantera Negra" width="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhuMGplam9pNHV3NHR3d2YxZ2Z1NTJyaGJmZjJjamUxampwbXdpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThtavMQZtCbNZo2WY/giphy.gif" />
 
 ![Pantera Negra](https://img.shields.io/badge/PANTERA%20NEGRA-6A1B9A?style=for-the-badge)
 
@@ -99,39 +79,7 @@
 
 </div>
 
-<br />
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <!-- <img alt="Quarteto Fantástico" width="250" src="COLE_O_LINK_DO_GIF" /><br /> -->
-      <img alt="Quarteto Fantástico" src="https://img.shields.io/badge/QUARTETO%20FANT%C3%81STICO-0057B8?style=for-the-badge" /><br />
-      <sub>A primeira família da Marvel: Sr. Fantástico, Mulher-Invisível, Tocha Humana e Coisa.</sub>
-    </td>
-    <td align="center" width="33%">
-      <!-- <img alt="Homem de Ferro" width="250" src="COLE_O_LINK_DO_GIF" /><br /> -->
-      <img alt="Homem de Ferro" src="https://img.shields.io/badge/HOMEM%20DE%20FERRO-C8102E?style=for-the-badge" /><br />
-      <sub>Tony Stark: gênio, inventor e dono da armadura mais icônica da Marvel.</sub>
-    </td>
-    <td align="center" width="33%">
-      <!-- <img alt="Rocket" width="250" src="COLE_O_LINK_DO_GIF" /><br /> -->
-      <img alt="Rocket" src="https://img.shields.io/badge/ROCKET-F28C28?style=for-the-badge" /><br />
-      <sub>O guaxinim dos Guardiões da Galáxia: esperto, sarcástico e especialista em armas.</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📚 Universo nerd
-
-| 📚 HQs | 📖 Mangás | 🎌 Animes |
-|:--|:--|:--|
-| Os quadrinhos da Marvel são a minha casa. Estou até construindo o meu próprio leitor de HQs. | Histórias que me prendem página a página, com mundos e personagens inesquecíveis. | Mundos, lutas e personagens que me fazem querer assistir só mais um episódio. |
-
-<!-- Dica: adicione aqui seus mangás e animes favoritos, por exemplo: "**Favoritos:** título 1, título 2, título 3" -->
-
----
 
 ## 📫 Convoque-me
 
