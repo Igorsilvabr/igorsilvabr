@@ -34,15 +34,7 @@ Estudante de Ciência da Computação e assistente administrativo de TI no Colé
 ## Tecnologias
 
 <p align="center">
-  <img alt="Web" width="260" src="https://tech-stack.wontory.dev/api/orbit?text=Web&slugs=html5,css,javascript,typescript" />
-  <img alt="Frameworks" width="260" src="https://tech-stack.wontory.dev/api/orbit?text=Frameworks&slugs=react,nextdotjs,tailwindcss,laravel" />
-  <img alt="Dados" width="260" src="https://tech-stack.wontory.dev/api/orbit?text=Dados&slugs=python,c,oracle,microsoftsqlserver" />
-</p>
-
-<p align="center">
-  <img alt="Git" src="https://tech-stack.wontory.dev/api/badge?slug=git&text=Git&highlight=true" />
-  <img alt="GitHub" src="https://tech-stack.wontory.dev/api/badge?slug=github&text=GitHub&highlight=true" />
-  <img alt="Google Gemini" src="https://tech-stack.wontory.dev/api/badge?slug=googlegemini&text=Google%20Gemini&highlight=true" />
+  <img alt="Linguagens e frameworks: HTML5, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Laravel, Python, C, Oracle SQL, SQL Server, Git, GitHub e Gemini" src="./assets/tecnologias.svg" />
 </p>
 
 <p align="center">
@@ -75,7 +67,9 @@ Aplicação para gerenciar uma biblioteca de quadrinhos: exibição da capa ao a
 </p>
 
 <p align="center">
-  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=Igorsilvabr&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&radius=10&custom_title=Atividade%20recente" />
+  <a href="https://github.com/Igorsilvabr">
+    <img alt="Calendário de contribuições" width="640" src="https://ghchart.rshah.org/1F6FEB/Igorsilvabr" />
+  </a>
 </p>
 
 ---
