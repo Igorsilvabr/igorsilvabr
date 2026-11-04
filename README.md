@@ -34,7 +34,7 @@ Estudante de Ciência da Computação e assistente administrativo de TI no Colé
 ## Tecnologias
 
 <p align="center">
-  <img alt="Linguagens e frameworks: HTML5, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Laravel, Python, C, Oracle SQL, SQL Server, Git, GitHub e Gemini" src="./assets/tecnologias.svg" />
+  <img alt="Linguagens e frameworks: HTML5, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Laravel, Python, C, Oracle SQL, SQL Server, Git, GitHub e Gemini" src="./asset/tecnologias.svg" />
 </p>
 
 <p align="center">
